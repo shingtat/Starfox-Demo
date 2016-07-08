@@ -1,0 +1,244 @@
+# Blender MTL File: 'None'
+# Material Count: 23
+
+newmtl default
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_cushions
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.239216 0.286275
+Ks 0.247059 0.239216 0.286275
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/yx1_02_01_01_03.jpg
+
+newmtl default_default
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.282353 0.254902
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/mpo1.jpg
+
+newmtl default_door_right
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_engines
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/cp2_03.jpg
+
+newmtl default_fire
+Ns 0.000000
+Ka 0.666667 0.666667 0.666667
+Kd 0.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_handle
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.149020 0.176471
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_handle_power_control
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.149020 0.176471
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/c5.jpg
+
+newmtl default_interior1
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.239216 0.286275
+Ks 0.247059 0.239216 0.286275
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/bldg6_Form22_1_mtl1_diffcol_02.jpg
+
+newmtl default_interior_loaded
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/gm1.jpg
+
+newmtl default_joystick
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_joystick_joystick
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/cp2_03_01.jpg
+
+newmtl default_lever
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_lght
+Ns 0.000000
+Ka 0.666667 0.666667 0.666667
+Kd 0.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_light
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 1.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_mid_panel
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/CockpitHUD.jpg
+
+newmtl default_power_case
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/ca1c.jpg
+
+newmtl default_power_control
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/ft4.jpg
+
+newmtl default_rear_skin
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/asd2.jpg
+
+newmtl default_ship
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Master/Desktop/BlenderSource/AlienInterceptor/Interceptor/Maps/1pt.jpg
+
+newmtl default_skin
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.247059
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl default_switch2
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.239216 0.286275
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl material_1
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.800000
+illum 2
